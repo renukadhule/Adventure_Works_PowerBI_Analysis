@@ -20,6 +20,11 @@ Interactive Visuals such as funnel charts, bar charts with secondary stepped lin
 ![Image](https://github.com/renukadhule/Adventure_Works_PowerBI_Analysis/blob/main/Modelling.png)
 
 
+![Image](https://github.com/renukadhule/Adventure_Works_PowerBI_Analysis/blob/main/Images/First.png)<br><br>
+![Image](https://github.com/renukadhule/Adventure_Works_PowerBI_Analysis/blob/main/Images/Second.png)<br><br>
+![Image](https://github.com/renukadhule/Adventure_Works_PowerBI_Analysis/blob/main/Images/Third.png)<br><br>
+![Image](https://github.com/renukadhule/Adventure_Works_PowerBI_Analysis/blob/main/Images/Fourth.png)
+
 ## Insights
 **Revenue:** $24.9 million between January 2020 and June 2022, with $10.5 million in profit.<br>
 **Top Products:** Accessories, especially tires and tubes, have the most orders, while bikes contribute the largest profit.<br>
