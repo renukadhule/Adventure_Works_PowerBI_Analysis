@@ -11,9 +11,9 @@ calculate fields with DAX measures. Finally, created an interactive Dashboard fo
 [get the dataset from here](https://www.kaggle.com/datasets/samolkin/adventure-works-sales?select=AdventureWorks+Calendar+Lookup.csv)
 
 ## Power BI Features & Concepts Used:
-Power Query Editor for transforming raw data, handling null values, and creating conditional columns.
-Data Modeling using relationships between tables (fact and dimension) to ensure seamless interaction between the datasets.
-DAX measures for calculating dynamic metrics like revenue growth, sales trends, and profit margins.
+Power Query Editor for transforming raw data, handling null values, and creating conditional columns.<br>
+Data Modeling using relationships between tables (fact and dimension) to ensure seamless interaction between the datasets.<br>
+DAX measures for calculating dynamic metrics like revenue growth, sales trends, and profit margins.<br>
 Interactive Visuals such as funnel charts, bar charts with secondary stepped lines, and map visualizations with filters, making it easy to explore the data in-depth
 
 ## Features
