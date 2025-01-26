@@ -21,10 +21,8 @@ Interactive Visuals such as funnel charts, bar charts with secondary stepped lin
 
 
 ## Insights
-Revenue: $24.9 million between January 2020 and June 2022, with $10.5 million in profit.
-Top Products: Accessories, especially tires and tubes, have the most orders, while bikes contribute the largest profit.
-Returns: Clothing has the highest return rate, particularly shorts. The Road - 750 Black, 48 bike has an unusually high return rate of 4.23%.
-Market Insights: Most orders come from the United States, but Australia has a surprising number of orders.
-Customer Growth: Growth spiked in mid-2021, likely due to an event like a new location opening.
-Revenue Per Customer: While customer numbers grew, revenue per customer declined, possibly due to factors like inflation or production constraints.
-Seasonal Trends: December shows the largest spikes in revenue, likely due to Christmas sales.
+Revenue: $24.9 million between January 2020 and June 2022, with $10.5 million in profit.<br>
+Top Products: Accessories, especially tires and tubes, have the most orders, while bikes contribute the largest profit.<br>
+Returns: Clothing has the highest return rate, particularly shorts. The Road - 750 Black, 48 bike has an unusually high return rate of 4.23%.<br>
+Market Insights: Most orders come from the United States, but Australia has a surprising number of orders.<br>
+Seasonal Trends: December shows the largest spikes in revenue, likely due to Christmas sales.<br>
