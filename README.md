@@ -19,7 +19,7 @@ Interactive Visuals such as funnel charts, bar charts with secondary stepped lin
 ## Relational Model
 ![Image](https://github.com/renukadhule/Adventure_Works_PowerBI_Analysis/blob/main/Modelling.png)
 
-
+## Dashboard
 ![Image](https://github.com/renukadhule/Adventure_Works_PowerBI_Analysis/blob/main/Images/First.png)<br><br>
 ![Image](https://github.com/renukadhule/Adventure_Works_PowerBI_Analysis/blob/main/Images/Second.png)<br><br>
 ![Image](https://github.com/renukadhule/Adventure_Works_PowerBI_Analysis/blob/main/Images/Third.png)<br><br>
